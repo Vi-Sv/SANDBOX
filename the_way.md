@@ -27,3 +27,5 @@ postgres=# ALTER USER postgres PASSWORD 'Wec9i856';
 
 
 https://github.com/dbeaver/dbeaver/releases
+
+https://github.com/dbeaver/dbeaver/releases/download/26.1.2/dbeaver-ce-26.1.2-windows-x86_64.exe
