@@ -19,3 +19,4 @@ psql --version
 Если в ответе написано psql (PostgreSQL) 16.x — движок готов к созданию таблиц фактов и справочников.
 
 
+<img width="1477" height="541" alt="image" src="https://github.com/user-attachments/assets/96ea4457-1620-4de3-84f2-c224b2cf0d3b" />
