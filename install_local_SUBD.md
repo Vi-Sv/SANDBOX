@@ -9,13 +9,11 @@
 Скачайте два ZIP-архива. **Не запускайте установку**, нужны именно файлы внутри архивов.
 
 1. **Ядро СУБД (PostgreSQL 16.14)**:
-   * [Скачать архив postgresql-16.14-windows-x64-binaries.zip](https://enterprisedb.com) *(Официальное зеркало EnterpriseDB)*
    * https://www.enterprisedb.com/download-postgresql-binaries
    * https://sbp.enterprisedb.com/getfile.jsp?fileid=1260308
      
 2. **Графический интерфейс (DBeaver CE 26.1.2)**:
-   * [Скачать архив dbeaver-ce-26.1.2-windows-x86_64.zip](https://github.com) *(Официальный репозиторий GitHub)*
-   * https://github.com/dbeaver/dbeaver/releases
+   * [Скачать архив dbeaver-ce-26.1.2-windows-x86_64.zip](https://github.com/dbeaver/dbeaver/releases) *(Официальный репозиторий GitHub)*
    * https://github.com/dbeaver/dbeaver/releases/download/26.1.2/dbeaver-ce-26.1.2-windows-x86_64.zip
 
 ---
