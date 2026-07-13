@@ -24,3 +24,6 @@ psql --version
 
 
 postgres=# ALTER USER postgres PASSWORD 'Wec9i856';
+
+
+https://github.com/dbeaver/dbeaver/releases
